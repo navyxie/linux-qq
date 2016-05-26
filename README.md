@@ -2,9 +2,9 @@
 
 linux下QQ安装方法
 
-1 第一步，安装step1(fonts-wqy-microhei_0.2.0-beta-2_all).deb
-2 第二步，安装step2(ttf-wqy-microhei_0.2.0-beta-2_all).deb
-3 第三步，可选择安装QQ2012(step3(wine-2012-qqintl_0.1.3-2_i386).deb)或者QQ2013(step3(WineTM2013-20131206-Longene).deb)版本的一个
+- 第一步，安装step1[(fonts-wqy-microhei_0.2.0-beta-2_all).deb](http://pan.baidu.com/s/1dEVKuMt)
+- 第二步，安装step2[(ttf-wqy-microhei_0.2.0-beta-2_all).deb](http://pan.baidu.com/s/1eShT8qA)
+- 第三步，可选择安装[QQ2012(step3(wine-2012-qqintl_0.1.3-2_i386).deb)](http://pan.baidu.com/s/1hsyK1VI)或者[QQ2013(step3(WineTM2013-20131206-Longene).deb)](http://pan.baidu.com/s/1nvaTHH3)版本的一个
 
 ## [linux wechat (微信)](https://github.com/geeeeeeeeek/electronic-wechat)
 
